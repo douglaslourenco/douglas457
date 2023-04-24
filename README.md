@@ -21,5 +21,3 @@
   ![Snake animation](https://github.com/douglaslourenco/douglaslourenco/blob/output/github-contribution-grid-snake.svg)
   
 </div>
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=douglaslourenco&layout=compact)](https://github.com/douglaslourenco/github-readme-stats)
