@@ -1,8 +1,7 @@
 ## Olá, eu sou o Douglas. Prazer em conhecê-lo.
-<div>
-<img href="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=douglaslourenco&show_icons=true&theme=transparent)"/>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=douglaslourenco&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=douglaslourenco)](https://github.com/anuraghazra/github-readme-stats)
-</div>
 
 
 ## Olá, eu sou o Douglas. Prazer em conhecê-lo.
