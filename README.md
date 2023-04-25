@@ -3,10 +3,13 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=douglaslourenco&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=douglaslourenco)](https://github.com/anuraghazra/github-readme-stats)
 
+
+
+## Olá, eu sou o Douglas. Prazer em conhecê-lo.
 <div align="center">
   <a href="https://github.com/douglaslourenco">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglaslourenco)](https://github.com/anuraghazra/github-readme-stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=douglaslourenco&show_icons=true&theme=transparent"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=douglaslourenco&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglaslourenco&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Doug-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -22,9 +25,6 @@
   <a href = "mailto:lourenco.douglas02@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/douglas-louren%C3%A7o-25375b209/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/douglaslourenco/douglaslourenco/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/douglas457/douglas457/blob/output/github-contribution-grid-snake.svg)
   
 </div>
-
-  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=douglaslourenco)](https://github.com/anuraghazra/github-readme-stats&theme=radical)
