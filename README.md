@@ -21,3 +21,6 @@
   ![Snake animation](https://github.com/douglaslourenco/douglaslourenco/blob/output/github-contribution-grid-snake.svg)
   
 </div>
+
+  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=douglaslourenco)](https://github.com/anuraghazra/github-readme-stats)
