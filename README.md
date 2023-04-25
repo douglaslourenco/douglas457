@@ -7,7 +7,7 @@
 ## Olá, eu sou o Douglas. Prazer em conhecê-lo.
 <div align="center">
   <a href="https://github.com/douglaslourenco">
-  <img height="180em" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglaslourenco"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=douglaslourenco&show_icons=true&theme=transparent"/>
 </div>
 <div style="display: inline_block"><br>
