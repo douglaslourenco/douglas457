@@ -1,4 +1,11 @@
 ## Olá, eu sou o Douglas. Prazer em conhecê-lo.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=douglaslourenco&show_icons=true&theme=dark)
+
+
+
+
+
 <div align="center">
   <a href="https://github.com/douglaslourenco">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=douglaslourenco&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
