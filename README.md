@@ -10,12 +10,6 @@
   <img align="center" alt="Doug-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Doug-Java" height="30" width="40" src="https://camo.githubusercontent.com/65b616ed4448c46e59c11345a1d49a01adc6d51f9bd6e93ee61d29573e04c597/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176612f6a6176612d6f726967696e616c2d776f72646d61726b2e737667">
 </div>
-
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{douglaslourenco}/count.svg" /></p> 
-<br>
-</div>
   
   ##
  
