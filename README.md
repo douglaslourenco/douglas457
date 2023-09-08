@@ -1,4 +1,4 @@
-## Olá, eu sou o Douglas. Prazer em conhecê-lo.
+## Olá, eu sou o Douglas.
 <div align="center">
   <a href="https://github.com/douglaslourenco">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=douglaslourenco&show_icons=true&count_private=true&hide_border=true&title_color=BA55D3&icon_color=BA55D3&text_color=BA55D3&bg_color=0d1117" alt="Douglas Lourenço github stats"/>
